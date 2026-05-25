@@ -54,3 +54,10 @@ This project involves analyzing and cleaning the dataset provided by Swiggy. Swi
 
 ## 🔍 Insights
 - Found useful insights such as vegetarian options leading to 122 million in sales, 7.2% higher than non-vegetarian; the top 10% of customers accounting for 80% of sales; and Tirupati city recording the highest order amount at 43 million.
+
+<img width="762" height="431" alt="Insights" src="https://github.com/user-attachments/assets/2633b6d9-c84f-4b22-84d3-f3fd7a1f1ee2" />
+<img width="759" height="425" alt="Dashboard3" src="https://github.com/user-attachments/assets/7df33c45-cb92-4e7f-b35e-da85bba74d2a" />
+<img width="760" height="426" alt="Dashboard2" src="https://github.com/user-attachments/assets/4f684bda-bdca-4163-b874-896b56b32a40" />
+<img width="866" height="484" alt="Dashboard 1" src="https://github.com/user-attachments/assets/e59d38f3-08c8-4747-9fd9-5296f0d3ea51" />
+<img width="730" height="411" alt="cover" src="https://github.com/user-attachments/assets/ee2f83c2-db92-4754-bd59-c7a26cccc0f2" />
+
